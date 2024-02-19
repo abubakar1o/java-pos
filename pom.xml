@@ -41,10 +41,9 @@
   <modules>
     <module>micropos-common</module>
     <module>micropos-repository</module>
-        <module>micropos-security</module>
+    <module>micropos-security</module>
     <module>micropos-services</module>
     <module>micropos-web</module>
-    <module>testweb</module>
     <module>micropos-email</module>
   </modules>
 </project>
